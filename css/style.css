@@ -22,6 +22,7 @@ h2 {
 }
 
 h3 {
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -112,14 +113,14 @@ p {
 
 /* benefits */
 
-.benefits-headers {
-  font-weight: 500;
-}
-
 /* our team */
 
 .team {
   background-color: #f4f4fd;
+}
+
+.team-main-header {
+  text-transform: capitalize;
 }
 
 .team-item {
@@ -141,13 +142,13 @@ p {
 
 /* our portfolio */
 
-.portfolio-image {
-  width: 360px;
-  height: 300px;
+.portfolio-main-header {
+  text-transform: capitalize;
 }
 
-.portfolio-headers {
-  font-weight: 500;
+.portfolio-image {
+  width: 360;
+  height: 300;
 }
 
 /* footer */
