@@ -93,7 +93,7 @@ p {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 
 .hero-button {
@@ -101,7 +101,7 @@ p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
+  color: #ffffff;
   cursor: pointer;
   background-color: #4d5ae5;
 }
@@ -124,12 +124,7 @@ p {
 }
 
 .team-item {
-  background-color: #fff;
-}
-
-.team-image {
-  width: 264px;
-  height: 260px;
+  background-color: #ffffff;
 }
 
 .team-headers {
